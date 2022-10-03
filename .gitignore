@@ -1,0 +1,5 @@
+/target
+/.idea
+*.code-workspace
+.env
+.DS_Store
